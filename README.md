@@ -2,9 +2,9 @@
 I am a fullstack software developer and a commputer science student from Argentina! 
 
 - 🌱 Learning: 
-   design patterns in depth
-   React Native and mobile
-   UX/UI concepts
+   * design patterns in depth
+   * React Native and mobile
+   * UX/UI concepts
   
 - ✨ Want to learn:
   Go in depth

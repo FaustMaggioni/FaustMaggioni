@@ -7,15 +7,17 @@ I am a fullstack software developer and a commputer science student from Argenti
    * UX/UI concepts
   
 - ✨ Want to learn:
-  Go in depth
+  * Go in depth
+  * Scala
+  * Blockchain
    
 - 🔭 My current stack:
-  Javascript/Typescript
-  HTML/CSS
-  React js
-  Node js
-  Python
-  Java
+  * Javascript/Typescript
+  * HTML/CSS
+  * React js
+  * Node js
+  * Python
+  * Java
   
 
 <br>

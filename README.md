@@ -7,9 +7,9 @@ I am a fullstack software developer and a commputer science student from Argenti
    * UX/UI concepts
   
 - ✨ Want to learn:
-  * Go in depth
-  * Scala
-  * Blockchain
+  * Backend in depth.
+  * Databases.
+  * Android Dev.
    
 - 🔭 My current stack:
   * Javascript/Typescript
@@ -22,7 +22,8 @@ I am a fullstack software developer and a commputer science student from Argenti
 
 <br>
 ## Connect with me 📫
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faustino-maggioni-duffy-b8b3991ab/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+(https://www.linkedin.com/in/faustino-maggioni-duffy-b8b3991ab/) </img>]
 <br>
 <br>
 

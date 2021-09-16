@@ -18,6 +18,8 @@ I am a fullstack software developer and a commputer science student from Argenti
   * Node js
   * Python
   * Java
+  * OOP
+  * Data Structures
   
 
 <br>

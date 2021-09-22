@@ -23,7 +23,7 @@ I am a fullstack software developer and a commputer science student from Argenti
   
 
 
-##Connect with me 📫
+## Connect with me 📫
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 (https://www.linkedin.com/in/faustino-maggioni-duffy-b8b3991ab/) </img>]
 

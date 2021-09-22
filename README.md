@@ -20,6 +20,7 @@ I am a fullstack software developer and a commputer science student from Argenti
   * Java
   * OOP
   * Data Structures
+  * React Native
   
 
 

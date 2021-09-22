@@ -1,5 +1,5 @@
 ### Hello There 👋
-I am a fullstack software developer and a commputer science student from Argentina! 
+I am a fullstack software developer and a Computer Science student from Argentina! 
 
 - 🌱 Learning: 
    * design patterns in depth

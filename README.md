@@ -13,8 +13,8 @@ I am a software developer and a Computer Science student from Argentina.
   * React Native
   
 ## Connect with me 📫
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-https://www.linkedin.com/in/faustino-maggioni-duffy-b8b3991ab/ </img>
+(<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+https://www.linkedin.com/in/faustino-maggioni-duffy-b8b3991ab/ </img>)
 
 
 

@@ -1,8 +1,12 @@
 ### Hello There 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100"/>
+</div>
 I am a software developer and a Computer Science student from Argentina.
 
 - 🔭 My current stack:
-  * Javascript/Typescript
+  * Javascript
+  * Typescript
   * HTML/CSS
   * React js
   * Node js
@@ -11,10 +15,12 @@ I am a software developer and a Computer Science student from Argentina.
   * OOP
   * Data Structures
   * React Native
+  * NestJS
   
 ## Connect with me 📫
-(<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-https://www.linkedin.com/in/faustino-maggioni-duffy-b8b3991ab/ </img>)
+<a href="https://linkedin.com/in/maggioniduffy">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 

@@ -33,6 +33,6 @@
 <h3> 🤙 Get in touch </h3>
 <div>
  <a href="https://linkedin.com/in/maggioniduffy"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Linkedin" **alt="Linkedin" width="180" height="auto"/>
  </a>
 </div>

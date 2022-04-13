@@ -1,35 +1,31 @@
 # Faustino Maggioni Duffy
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100"/>
-</div>
-#
-## I am a software developer and a Computer Science student from Argentina.
-- Preferences
-I like to work in the Frontend and in the Backend.
-- Experience
-My last job was in Patagonian Tech
-* Backend
-* QA Automation
-- Education
-* Currently studying for a semester in *Instituto Tecnologico Buenos Aires*.
-* Regular student in Universidad Nacional del Comahue
+### 🗺️ I am a software developer and a Computer Science student from Argentina.
+- ❤️ Preferences
+  * I like to work in the Frontend and in the Backend.
+- 🔥 Experience
+  * My last job was in Patagonian Tech
+    * Backend
+    * QA Automation
+- 📜 Education
+  * Currently studying for a semester in <a href="https://www.itba.edu.ar/"> *Instituto Tecnologico Buenos Aires*. </a>
+  * Regular student in <a href="https://www.uncoma.edu.ar"> *Universidad Nacional del Comahue*. </a>
 - 🔭 My current stack:
   * Javascript
   * Typescript
   * HTML/CSS
-  * React js
-  * Node js
+  * React.js
+  * Node.js
   * Python
   * Java
   * OOP
   * Data Structures
   * React Native
   * NestJS
-  
-## Connect with me 📫
-<a href="https://linkedin.com/in/maggioniduffy">
+  * What it is needed ✅
+## Get in touch 📫
+<a href="https://www.linkedin.com/in/maggioniduffy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ </a>
 
 
 

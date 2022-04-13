@@ -1,16 +1,6 @@
 ### Hello There 👋
-I am a fullstack software developer and a Computer Science student from Argentina! 
+I am a software developer and a Computer Science student from Argentina.
 
-- 🌱 Learning: 
-   * design patterns in depth
-   * React Native and mobile
-   * UX/UI concepts
-  
-- ✨ Want to learn:
-  * Backend in depth.
-  * Databases.
-  * Android Dev.
-   
 - 🔭 My current stack:
   * Javascript/Typescript
   * HTML/CSS
@@ -22,8 +12,6 @@ I am a fullstack software developer and a Computer Science student from Argentin
   * Data Structures
   * React Native
   
-
-
 ## Connect with me 📫
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 https://www.linkedin.com/in/faustino-maggioni-duffy-b8b3991ab/ </img>

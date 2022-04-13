@@ -1,8 +1,16 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100"/>
 </div>
-I am a software developer and a Computer Science student from Argentina.
-
+## I am a software developer and a Computer Science student from Argentina.
+- Preferences
+I like to work in the Frontend and in the Backend.
+- Experience
+My last job was in Patagonian Tech
+* Backend
+* QA Automation
+- Education
+* Currently studying for a semester in *Instituto Tecnologico Buenos Aires*.
+* Regular student in Universidad Nacional del Comahue
 - 🔭 My current stack:
   * Javascript
   * Typescript

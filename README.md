@@ -10,8 +10,9 @@
   * Currently studying for a semester in <a href="https://www.itba.edu.ar/"> *Instituto Tecnologico Buenos Aires*. </a>
   * Regular student in <a href="https://www.uncoma.edu.ar"> *Universidad Nacional del Comahue*. </a>
 ### 🍉 My Stats
-* [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maggioniduffy&theme=dark&background=000000)](https://git.io/streak-stats)
-* <a href="https://app.daily.dev/fausmagg"><img src="https://api.daily.dev/devcards/d0a636ccac764ae3944707ae827e8de9.png?r=bjm" width="400" alt="Faustino Maggioni Duffy's Dev Card"/></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maggioniduffy&theme=dark&background=000000)](https://git.io/streak-stats)
+### My card
+<a href="https://app.daily.dev/fausmagg"><img src="https://api.daily.dev/devcards/d0a636ccac764ae3944707ae827e8de9.png?r=bjm" width="400" alt="Faustino Maggioni Duffy's Dev Card"/></a>
 ### 🔭 My current stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

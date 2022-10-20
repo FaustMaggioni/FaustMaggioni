@@ -3,7 +3,8 @@
 ### ❤️ Preferences
   * I like to work in the Frontend and in the Backend.
 ### 🔥 Experience
- * My last job was in Patagonian Tech as a trainee developer
+ * Ensolvers
+ * Patagonian Tech
    * Backend
    * QA Automation
 ### 📜 Education

@@ -8,7 +8,7 @@
    * Backend
    * QA Automation
 ### 📜 Education
-  * Currently studying for a semester in <a href="https://www.itba.edu.ar/"> *Instituto Tecnologico Buenos Aires*. </a>
+  * One semester in scolarship <a href="https://www.itba.edu.ar/"> *Instituto Tecnologico Buenos Aires*. </a>
   * Regular student in <a href="https://www.uncoma.edu.ar"> *Universidad Nacional del Comahue*. </a>
 ### 🍉 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maggioniduffy&theme=dark&background=000000)](https://git.io/streak-stats)

@@ -1,5 +1,5 @@
 # Faustino Maggioni Duffy 
-## 🗺️ I am a software developer and a Computer Science student from Argentina.
+## 🗺️ I am a software developer from Argentina.
 ### ❤️ Preferences
   * I like to work in the Frontend and in the Backend.
 ### 🔥 Experience

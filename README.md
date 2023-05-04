@@ -7,9 +7,10 @@
  * Patagonian Tech
    * Backend
    * QA Automation
+ * Assistant Professor in Database Introduction course in the National University of Comahue
 ### 📜 Education
   * One semester scolarship at <a href="https://www.itba.edu.ar/"> *Instituto Tecnologico Buenos Aires*. </a>
-  * Regular student at <a href="https://www.uncoma.edu.ar"> *Universidad Nacional del Comahue*. </a>
+  * Bachelor Degree in Computer Science at <a href="https://www.uncoma.edu.ar"> *Universidad Nacional del Comahue*. </a>
 ### 🍉 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maggioniduffy&theme=dark&background=000000)](https://git.io/streak-stats)
 ### 🔭 My current stack:
